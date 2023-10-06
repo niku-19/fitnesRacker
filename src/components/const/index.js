@@ -1,0 +1,11 @@
+export const LOADING = "Loading Data";
+export const ERROR = "Error";
+export const EXERCISE_LOAD_SUCCESS = "exercise load success";
+export const REMOVE_EXERCISE = "remove exercise";
+export const EXERCISE_ADDED = "Exercise Added";
+export const ADD_FOOD = "food added";
+export const LOAD_FOOD = "Load Food";
+export const REMOVE_FOOD = "Remove food from list";
+export const ADD_GOALS = "Add goals";
+export const LOAD_GOALS = "Load goals";
+export const REMOVE_GOAL = "Remove Goals";
